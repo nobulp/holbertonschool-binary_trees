@@ -4,7 +4,7 @@
 
 
 /**
- * binary_tree_nodes - Counts the nodes with at least one child in a binary tree
+ * binary_tree_nodes - Counts the nodes with at least one child
  * @tree: Pointer to the root node of the tree
  *
  * Description: Traverses the tree recursively and returns the number of
